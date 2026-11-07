@@ -4,7 +4,7 @@
 
 ## Metoda
 
-Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění zákona citované v kapitolách [01-obecna-dopravni-obsluznost.md](01-obecna-dopravni-obsluznost.md), [02-postup-smlouva-nabidkove-rizeni.md](02-postup-smlouva-nabidkove-rizeni.md), [03-mimoradne-kompenzace-dozor-novely.md](03-mimoradne-kompenzace-dozor-novely.md) a [04-priloha-standardy.md](04-priloha-standardy.md) a výklad k jednotlivým paragrafům v týchž kapitolách. Repozitář neobsahuje místní judikaturu k tomuto zákonu a komentář neuvádí žádné spisové značky; zásady níže jsou proto dovozeny výhradně z textu zákona, jeho systematiky, vazby na nařízení (ES) č. 1370/2007 a z výkladu v kapitolách — nikoli z judikatorních tezí. Každá zásada je doložena doslovnými citacemi z kapitol s uvedením souboru a paragrafu.
+Obsahovým zdrojem jsou pouze lokální soubory tohoto repozitáře — doslovné znění zákona citované v kapitolách [01-obecna-dopravni-obsluznost.md](01-obecna-dopravni-obsluznost.md), [02-postup-smlouva-nabidkove-rizeni.md](02-postup-smlouva-nabidkove-rizeni.md), [03-mimoradne-kompenzace-dozor-novely.md](03-mimoradne-kompenzace-dozor-novely.md) a [04-priloha-standardy.md](04-priloha-standardy.md) a výklad k jednotlivým paragrafům v týchž kapitolách. Repozitář obsahuje k tomuto zákonu jedinou místní judikaturní kartu — [NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md) ze dne 13. 2. 2023 (kat. A), citovanou v kapitole 02 u § 8 a zmíněnou níže u zásady 9; jiné spisové značky komentář neuvádí a k ostatním ustanovením místní judikatura chybí. Zásady níže jsou proto dovozeny z textu zákona, jeho systematiky, vazby na nařízení (ES) č. 1370/2007 a z výkladu v kapitolách — nikoli z judikatorních tezí. Každá zásada je doložena doslovnými citacemi z kapitol s uvedením souboru a paragrafu.
 
 Nadpis skupiny je orientační. Citace může vyjadřovat obecnou právní zásadu, ale také užší interpretační nebo aplikační pravidlo; její dosah proto nelze rozšiřovat nad rámec citovaného textu a systematického kontextu ustanovení.
 
@@ -231,7 +231,7 @@ Praktickým důsledkem zásady je, že objednatel musí žádost o vyjádření 
 
 ## 9. Kontrola postupu objednatele — nejprve námitky, pak Úřad
 
-**Zakotvení:** § 13 odst. 3, § 19 odst. 3 a 4, § 25, § 26 odst. 1
+**Zakotvení:** § 13 odst. 3, § 19 odst. 3 a 4, § 25, § 26 odst. 1, § 8 odst. 5
 
 Dozor nad postupem objednatele je svěřen nezávislému orgánu a je zaměřen na postup při uzavírání smluv ([03-mimoradne-kompenzace-dozor-novely.md](03-mimoradne-kompenzace-dozor-novely.md), § 25):
 
@@ -248,6 +248,16 @@ U přímého zadání zákon vytváří zvláštní institut námitek, aby byl p
 Dozor se však týká jen postupu, nikoli plnění smluv; komentář k § 25 vymezuje jeho hranici:
 
 > „Dozor je zaměřen na postup při uzavírání smluv (nabídkové řízení, přímé zadání, mimořádné situace, uveřejňování, námitky), nikoli na kvalitu plnění smluv, výši jízdného nebo dodržování standardů v provozu"
+
+Spory ze samotné smlouvy o veřejných službách patří soudu, protože smlouva není veřejnoprávní smlouvou; komentář k § 8 odst. 5 uvádí ([02-postup-smlouva-nabidkove-rizeni.md](02-postup-smlouva-nabidkove-rizeni.md), § 8):
+
+> „Jde tedy o smlouvu soukromoprávní, na niž se subsidiárně použije občanský zákoník (zejm. obecná ustanovení o smlouvě, § 1724 a násl. zákona č. 89/2012 Sb.), a spory z ní rozhodují soudy v občanském soudním řízení."
+
+Jde o jediné místo komentáře s oporou v místní judikaturní kartě — [NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md) (13. 2. 2023, kat. A); výklad ke kartě u § 8 uvádí (tamtéž, § 8):
+
+> „Právní věta karty potvrzuje závěr výkladu k odst. 5: k projednání a rozhodnutí sporů ze smluv o veřejných službách v přepravě cestujících uzavřených podle § 8 je dána pravomoc soudu."
+
+Na koordinační veřejnoprávní smlouvy mezi objednateli podle § 8 odst. 1 písm. c) právní věta karty nemíří.
 
 Odpovědnost za postup nese vždy objednatel, i když jedná prostřednictvím organizátora ([03-mimoradne-kompenzace-dozor-novely.md](03-mimoradne-kompenzace-dozor-novely.md), § 33):
 

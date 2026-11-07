@@ -86,7 +86,7 @@ Riziko nejistoty u výjimečných postupů nese objednatel: „přímé zadání
 
 **Jak ji řešit.** Pro každý znak normy vytvořte řádek: rozhodná skutečnost, kdo ji tvrdí, dostupný důkaz, kdo důkaz opatřuje, míra přesvědčení a následek neprokázání. Finanční model hodnoťte jako odborný podklad, nadměrnost kompenzace jako právní závěr objednatele. Právní argument nenahrazuje skutkové zjištění a zákonnou domněnku nelze dovodit jen z obtížného dokazování.
 
-**Místní opora.** [§ 9, § 17, § 18 a § 20](02-postup-smlouva-nabidkove-rizeni.md); [§ 22, § 23 a § 27](03-mimoradne-kompenzace-dozor-novely.md); [příloha — prokazování](04-priloha-standardy.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura zatím chybí (složka `judikatura/` se doplní strojově)
+**Místní opora.** [§ 9, § 17, § 18 a § 20](02-postup-smlouva-nabidkove-rizeni.md); [§ 22, § 23 a § 27](03-mimoradne-kompenzace-dozor-novely.md); [příloha — prokazování](04-priloha-standardy.md); [místní modality](PRAVNI-MODALITY.md); místní judikatura k těmto ustanovením chybí (jediná místní karta [NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md) se týká pravomoci soudu ve sporech ze smluv podle § 8)
 
 ## 7. Jaké právní následky, sankce a prostředky ochrany navazují?
 
@@ -96,7 +96,7 @@ Reprezentativní místní normativní vazby:
 - [§ 23 odst. 6](03-mimoradne-kompenzace-dozor-novely.md): „Pokud by přesto byla smlouva o veřejných službách v přepravě cestujících uzavřena, je neplatná.“
 - [§ 33 — pachatel](03-mimoradne-kompenzace-dozor-novely.md): „Dopravce ani organizátor (§ 6 odst. 2) pachateli přestupků podle § 33 nejsou; jedná-li organizátor jménem kraje nebo obce, odpovědnost nese objednatel.“
 - [§ 33 — vztah k nápravnému opatření](03-mimoradne-kompenzace-dozor-novely.md): „U písm. a) a b) je znakem skutkové podstaty i uzavření smlouvy; dokud smlouva uzavřena není, řeší se vady nápravným opatřením“
-Prostředky ochrany dopravce jsou dvoustupňové: námitky u objednatele (§ 13 odst. 3, § 19 odst. 3) a poté návrh Úřadu (§ 26 odst. 1). Spory ze smlouvy rozhodují civilní soudy (§ 8 odst. 5); proti rozhodnutí o uložení je odvolání bez odkladného účinku (§ 22 odst. 4).
+Prostředky ochrany dopravce jsou dvoustupňové: námitky u objednatele (§ 13 odst. 3, § 19 odst. 3) a poté návrh Úřadu (§ 26 odst. 1). Spory ze smlouvy rozhodují civilní soudy (§ 8 odst. 5), což potvrzuje místní karta [NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md); proti rozhodnutí o uložení je odvolání bez odkladného účinku (§ 22 odst. 4).
 
 **Jak ji řešit.** Spojte porušenou primární normu se sekundárním následkem, aktivně legitimovanou osobou, příslušným orgánem, lhůtou a výsledkem nápravy. Oddělte neplatnost smlouvy, přestupek objednatele, nápravné opatření Úřadu a smluvní sankci vůči dopravci; jejich souběh musí mít oporu v místním textu.
 
@@ -125,12 +125,12 @@ Typickým střetem je soutěž a transparentnost proti kontinuitě: komentář k
 ## 9. Co skutečně plyne z místní judikatury a kde jsou její hranice?
 
 **Odpověď pro tento komentář.**
-Repozitář zatím neobsahuje místní karty rozhodnutí (**0** karet); soubor zásad odkazuje na **0** místních karet s použitelnou citací. Složka `judikatura/` se doplní strojově později. Úvod to výslovně uvádí: „Komentář neuvádí spisové značky soudních rozhodnutí; žádná rozhodovací praxe není citována, pokud nebyla v lokálních materiálech k dispozici.“
-Místní korpus tedy neposkytuje citovatelnou judikatorní tezi; judikatorní odpověď se nesmí domýšlet a kazuistiky v oddílech F jsou modelové.
+Místní složka `judikatura/` obsahuje **jednu** kartu rozhodnutí: [NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md), rozhodnutí Nejvyššího soudu ze dne 13. 2. 2023 (kat. A), citované v [kapitole 02](02-postup-smlouva-nabidkove-rizeni.md) u § 8; soubor zásad na ni odkazuje u zásady 9. Úvod k metodě uvádí: „Komentář neuvádí spisové značky soudních rozhodnutí; žádná rozhodovací praxe není citována, pokud nebyla v lokálních materiálech k dispozici.“ Karta je jedinou výjimkou, kterou úvod výslovně uvádí.
+Z právní věty karty plyne jediná teze: k projednání a rozhodnutí sporů ze smluv o veřejných službách v přepravě cestujících uzavřených podle § 8 je dána pravomoc soudu. Výklad ke kartě u § 8 ji spojuje s § 8 odst. 5 (smlouva není veřejnoprávní smlouvou, spory z ní tedy nerozhoduje správní orgán jako spory z veřejnoprávní smlouvy) a výslovně uvádí, že na koordinační veřejnoprávní smlouvy mezi objednateli podle § 8 odst. 1 písm. c) právní věta nemíří. K ostatním ustanovením místní korpus citovatelnou judikatorní tezi neposkytuje; judikatorní odpověď se nesmí domýšlet a kazuistiky v oddílech F jsou modelové.
 
-**Jak ji řešit.** Po doplnění karet u každého rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud nebo Úřad vykládal stejné znění ZVSPC a odkázaného ZZVZ. Rozhodnutí k zadávání veřejných zakázek přenášejte jen přes výslovné obdobné použití; chybějící místní judikaturu označte jako mezeru.
+**Jak ji řešit.** U místní karty i u každého dalšího doplněného rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové či procesní předpoklady. Ověřte, zda soud nebo Úřad vykládal stejné znění ZVSPC a odkázaného ZZVZ. Rozhodnutí k zadávání veřejných zakázek přenášejte jen přes výslovné obdobné použití; chybějící místní judikaturu označte jako mezeru.
 
-**Místní opora.** [úvod a poznámka k metodě](00-uvod.md); [místní zásady](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
+**Místní opora.** [místní karta NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md); [§ 8 — citace karty](02-postup-smlouva-nabidkove-rizeni.md); [úvod a poznámka k metodě](00-uvod.md); [místní zásady](ZASADY.md); [Judikatura, nosné důvody a hranice použitelnosti](HLOUBKOVY-VYKLAD.md)
 
 ## 10. Jaké systematické, kolizní a časové vazby mohou změnit odpověď?
 
@@ -173,15 +173,15 @@ Aplikační vrstvu lze ověřit zejména v: [01-obecna-dopravni-obsluznost](01-o
 ## 13. Co komentář dosud neví a kdy se musí aktualizovat?
 
 **Odpověď pro tento komentář.**
-Současný místní korpus tvoří **5** kapitol se **42** samostatně nadepsanými ustanoveními a **0** karet rozhodnutí, doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
+Současný místní korpus tvoří **5** kapitol se **42** samostatně nadepsanými ustanoveními a **1** karta rozhodnutí ([NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md)), doplněných samostatnou mapou zásad a modalit. Tento údaj vyjadřuje stav místních zdrojů, nikoli úplnost objektivního práva.
 Kontrolní mezery zjištěné podle místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi; složka `judikatura/` se doplní strojově později;
+- místní judikatura poskytuje citovatelnou tezi jen k § 8 (karta NS 33 Cdo 1703/2022 k pravomoci soudu ve sporech ze smluv o veřejných službách); k ostatním ustanovením chybí;
 - v repozitáři není místní důvodová zpráva;
 - nařízení (ES) č. 1370/2007 je místně dostupné jen v původním znění, takže časová působnost čl. 5, 7 a 8 zůstává k ověření;
 - § 30 až 32 nejsou samostatně komentovány;
 - odkaz na § 270 odst. 10 a 11 ZZVZ je v aktuálním znění bezobsažný: „§ 270 ZZVZ má v uvedeném znění pouze osm odstavců“;
 - kapitola 01 nemá bloky typicky rozhodných důkazů a kapitola 03 je má jen u 3 ze 17 ustanovení.
-Aktualizaci musí spustit zejména novela ZVSPC, změna odkazovaných ustanovení ZZVZ, změna nařízení (ES) č. 1370/2007, změna prováděcích předpisů podle § 36, nová koncepce veřejné dopravy, doplnění místních karet rozhodnutí nebo rozpor mezi kapitolou a systematickými dokumenty.
+Aktualizaci musí spustit zejména novela ZVSPC, změna odkazovaných ustanovení ZZVZ, změna nařízení (ES) č. 1370/2007, změna prováděcích předpisů podle § 36, nová koncepce veřejné dopravy, doplnění nebo nahrazení místních karet rozhodnutí nebo rozpor mezi kapitolou a systematickými dokumenty.
 
 **Jak ji řešit.** Na konci každého výkladu veďte krátký stav poznání: ověřené pravidlo, použitý místní zdroj, otevřená otázka a událost vyžadující revizi. Tvrzení bez dohledatelného místního podkladu buď odstraňte, nebo je označte jako hypotézu; absenci rozhodnutí nikdy neformulujte jako ustálený právní závěr.
 

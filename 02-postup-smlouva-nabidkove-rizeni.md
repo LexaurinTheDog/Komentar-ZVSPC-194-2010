@@ -49,6 +49,8 @@ Druhá část kapitoly (§§ 18 až 21) se týká **přímého zadání** (váza
 - *NS* [33 Cdo 1703/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7C4756C325508BBC125899900190B6E?openDocument) — 13. 2. 2023, kat. A
   > „K projednání a rozhodnutí sporů ze smluv o veřejných službách v přepravě cestujících uzavřených podle § 8 zákona č. 194/2010 Sb. (ve znění pozdějších předpisů) je dána pravomoc soudu"
 
+**K místní judikaturní kartě NS 33 Cdo 1703/2022:** Právní věta karty potvrzuje závěr výkladu k odst. 5: k projednání a rozhodnutí sporů ze smluv o veřejných službách v přepravě cestujících uzavřených podle § 8 je dána pravomoc soudu. Odpovídá to tomu, že smlouva o veřejných službách není veřejnoprávní smlouvou (odst. 5), a spory z ní tedy nerozhoduje správní orgán jako spory z veřejnoprávní smlouvy. Karta se týká smluv o veřejných službách v přepravě cestujících; na koordinační veřejnoprávní smlouvy mezi objednateli podle odst. 1 písm. c) její právní věta nemíří — jejich režim je vyložen výše u písm. c).
+
 #### Tři formy zajištění dopravní obslužnosti (odst. 1)
 
 § 8 odst. 1 je úvodním „rozcestníkem“ hlavy III. Objednatel (stát, kraj, obec — viz § 3 a § 4) má k dispozici tři právní formy:

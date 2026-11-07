@@ -9,11 +9,11 @@
 Každá z třinácti vrstev odděluje místní zjištění, autorský test a dohledatelnou místní oporu. Tvrzení se při dalším psaní označuje podle své epistemické povahy:
 
 - **Text:** závěr přímo vyplývající z místního doslovného znění zákona, přílohy nebo místně citovaného prováděcího či unijního předpisu.
-- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže; v tomto repozitáři zatím žádná taková opora není.
+- **Judikatura:** závěr převzatý z místní karty rozhodnutí nebo z místně citované pasáže; v tomto repozitáři je jedinou takovou oporou karta [NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md) k § 8.
 - **Syntéza:** autorské propojení textu, systematiky, vazby na nařízení (ES) č. 1370/2007 a na ZZVZ.
 - **Otevřená otázka:** místní korpus odpověď nedává nebo ji sám označuje jako výkladovou otázku.
 
-Místní korpus pro tuto mapu tvoří **5 kapitol** (úvod a kapitoly 01 až 04), **42 samostatně nadepsaných ustanovení** (§ 1 až 29, § 33 až 41 a příloha), **55 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **10 zásad** v [ZASADY.md](ZASADY.md) a **0 místních karet rozhodnutí**. Rejstřík ustanovení je v [INDEX.md](INDEX.md).
+Místní korpus pro tuto mapu tvoří **5 kapitol** (úvod a kapitoly 01 až 04), **42 samostatně nadepsaných ustanovení** (§ 1 až 29, § 33 až 41 a příloha), **55 modalitních příkladů** v [PRAVNI-MODALITY.md](PRAVNI-MODALITY.md), **10 zásad** v [ZASADY.md](ZASADY.md) a **1 místní karta rozhodnutí** ([NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md), citovaná u § 8). Rejstřík ustanovení je v [INDEX.md](INDEX.md).
 
 ## 1. Znění, novelizace a časová působnost
 
@@ -229,7 +229,7 @@ Reprezentativní vazby porušení a následku:
 - [§ 34 — bezobsažný odkaz](03-mimoradne-kompenzace-dozor-novely.md): „neexistující odstavce nelze aplikovat k tíži obviněného“
 - [§ 27 — výrok po uzavření smlouvy](03-mimoradne-kompenzace-dozor-novely.md): „Jedním z možných výkladů je, že Úřad v takovém případě konstatuje porušení zákona a věc řeší přestupkovou odpovědností, nikoli zákazem plnění.“
 - [§ 16 odst. 3](02-postup-smlouva-nabidkove-rizeni.md): „K odchylným ujednáním se nepřihlíží (§ 223 odst. 6 ZZVZ); jiná práva na ukončení podle občanského zákoníku nejsou dotčena.“
-- [§ 8 odst. 5](02-postup-smlouva-nabidkove-rizeni.md): „spory z ní rozhodují soudy v občanském soudním řízení“
+- [§ 8 odst. 5](02-postup-smlouva-nabidkove-rizeni.md): „spory z ní rozhodují soudy v občanském soudním řízení“; pravomoc soudu k těmto sporům potvrzuje místní karta [NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md).
 - [Příloha](04-priloha-standardy.md): „příloha neobsahuje přímou sankci vůči dopravci; vymáhání je smluvní a sankce objednatele (§ 33) dopadá jen na postup při uzavírání smlouvy“
 Zákon tak kombinuje čtyři odlišné druhy následků: soukromoprávní neplatnost (§ 23 odst. 6), správní trest objednateli (§ 33), nápravné opatření Úřadu v přezkumném řízení (§ 25 odst. 2 písm. b), § 27) a smluvní prostředky vůči dopravci. Některé povinnosti objednatele (§ 7, § 9 odst. 2) sankční protějšek nemají.
 
@@ -244,19 +244,20 @@ Zákon tak kombinuje čtyři odlišné druhy následků: soukromoprávní neplat
 ## 9. Judikatura, nosné důvody a hranice použitelnosti
 
 **Zjištění z místního komentáře.**
-Repozitář zatím neobsahuje složku místních karet rozhodnutí: **0 karet**, soubor zásad odkazuje na **0 místních karet s použitelnou citací** a kapitoly obsahují **0 rozpoznaných citací rozhodovací praxe**. Složka `judikatura/` se doplní strojově později; do té doby jde o výslovnou mezeru, nikoli o doklad, že rozhodovací praxe neexistuje.
-Kapitoly tento stav samy deklarují:
+Místní složka `judikatura/` obsahuje **jednu kartu rozhodnutí**: [NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md), rozhodnutí Nejvyššího soudu ze dne 13. 2. 2023 (kat. A). Kapitola 02 ji cituje u [§ 8](02-postup-smlouva-nabidkove-rizeni.md) s navazujícím odstavcem „K místní judikaturní kartě“ a soubor zásad na ni odkazuje u zásady 9. K ostatním ustanovením karta chybí; jde o výslovnou mezeru, nikoli o doklad, že rozhodovací praxe neexistuje.
+**Judikatura.** Výklad ke kartě u § 8 uvádí: „Právní věta karty potvrzuje závěr výkladu k odst. 5: k projednání a rozhodnutí sporů ze smluv o veřejných službách v přepravě cestujících uzavřených podle § 8 je dána pravomoc soudu.“ Hranici dosahu karty vymezuje týž odstavec: „na koordinační veřejnoprávní smlouvy mezi objednateli podle odst. 1 písm. c) její právní věta nemíří“.
+Úvod k metodě uvádí obecné pravidlo, k němuž je karta jedinou výjimkou:
 - [Úvod](00-uvod.md): „Komentář neuvádí spisové značky soudních rozhodnutí; žádná rozhodovací praxe není citována, pokud nebyla v lokálních materiálech k dispozici.“
 - [Poznámka k metodě](00-uvod.md): „Komentář neobsahuje vymyšlené ani neověřené spisové značky; kazuistiky v oddílech F. jsou modelové a slouží k ilustraci aplikace ustanovení.“
-Judikatorní závěr se proto nesmí domýšlet. Prioritou pro budoucí karty jsou místa, která kapitoly označují jako výkladové otázky: neplatnost podle § 23 odst. 6, okruh stěžovatelů podle § 19 odst. 3, model rizika podle § 21, výrok Úřadu při vyloučení § 264 ZZVZ a přiřazení přestupků k lhůtám § 270 odst. 4 ZZVZ.
+Mimo § 8 se judikatorní závěr nesmí domýšlet. Prioritou pro další karty jsou místa, která kapitoly označují jako výkladové otázky: neplatnost podle § 23 odst. 6, okruh stěžovatelů podle § 19 odst. 3, model rizika podle § 21, výrok Úřadu při vyloučení § 264 ZZVZ a přiřazení přestupků k lhůtám § 270 odst. 4 ZZVZ.
 
 **Hloubkový test.**
-- U každého budoucího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
+- U místní karty i u každého dalšího rozhodnutí oddělte výrok, nosný důvod, podpůrnou úvahu a skutkové i procesní předpoklady.
 - Ověřte, zda soud nebo Úřad vykládal stejné znění ZVSPC, ZZVZ a nařízení (ES) č. 1370/2007; rozhodnutí k zákonu o veřejných zakázkách přenášejte jen přes výslovný odkaz na obdobné použití.
 - Nevytvářejte obecnou právní větu z úvahy závislé na zvláštních skutkových okolnostech (například na konkrétní míře rizika tržeb).
 - Rozhodovací linii popište jako shodu, vývoj, rozpor nebo otevřenou otázku a uveďte míru její stability.
 
-**Místní opora.** [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvod a poznámka k metodě](00-uvod.md)
+**Místní opora.** [místní karta NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md); [§ 8 — citace karty](02-postup-smlouva-nabidkove-rizeni.md); [rejstřík komentáře](INDEX.md); [místní výkladové otázky](VYKLADOVE-OTAZKY.md); [místní zásady](ZASADY.md); [úvod a poznámka k metodě](00-uvod.md)
 
 ## 10. Konkurenční výklady, protiargumenty a hraniční případy
 
@@ -278,7 +279,7 @@ Typickým vzorcem oddílů G je námitka formulovaná z pohledu jedné strany a 
 
 **Hloubkový test.**
 - Formulujte nejsilnější verzi každého rozumně obhajitelného výkladu (například restriktivní i účelový výklad pojmu stěžovatele), nikoli jeho oslabenou karikaturu.
-- U každé varianty uveďte textový, systematický (vazba na ZZVZ a nařízení), historický a účelový argument; místní judikatorní argument zatím chybí.
+- U každé varianty uveďte textový, systematický (vazba na ZZVZ a nařízení), historický a účelový argument; místní judikatorní argument k těmto sporným bodům chybí (jediná místní karta NS 33 Cdo 1703/2022 se týká jen pravomoci soudu ve sporech ze smluv podle § 8).
 - Porovnejte praktické následky variant: přípustnost námitek, platnost smlouvy, existenci přestupku, rozpočtové riziko objednatele.
 - Není-li spor místními prameny řešitelný, zachovejte varianty a doporučte praktické zajištění (konkretizace v oznámení, data v dokumentaci, písemný souhlas), jak to činí kapitoly.
 
@@ -332,7 +333,7 @@ Příklad úplného propojení znaku normy a následku: [příloha](04-priloha-s
 **Zjištění z místního komentáře.**
 Stav poznání je posuzován nad **5 kapitolami**. Následující matice je redakční diagnostika, nikoli automatické věcné hodnocení správnosti komentáře.
 Předpisové kontrolní mezery zjištěné z místní struktury:
-- místní judikatura neposkytuje citovatelnou tezi; složka `judikatura/` se doplní strojově později;
+- místní judikatura poskytuje citovatelnou tezi jen k § 8 ([NS 33 Cdo 1703/2022](judikatura/NS-33-Cdo-1703-2022.md) — pravomoc soudu ve sporech ze smluv o veřejných službách); k ostatním ustanovením chybí;
 - v repozitáři není místní důvodová zpráva, takže historický a účelový argument nelze ověřit proti materiálům zákonodárce;
 - nařízení (ES) č. 1370/2007 je místně dostupné jen v původním znění — časová působnost čl. 5, 7 a 8 je otevřená;
 - § 30 až 32 nejsou samostatně komentovány; [úvod](00-uvod.md) uvádí: „Paragrafy 30 až 32 komentář samostatně nezpracovává; úprava přestupků a jejich projednávání je soustředěna v § 33 a § 34.“
@@ -355,22 +356,22 @@ Matice zachycuje pouze přítomnost textového signálu v místní kapitole. Hod
 
 | Kapitola | Proces | Důkazy | Následky | Judikatura | Sporné výklady | Vazby | Aplikace | Stav |
 |---|---|---|---|---|---|---|---|---|
-| [Úvod](00-uvod.md) | ano | nenalezeno | ano | jen negativní údaj | ano | ano | nenalezeno | ano |
+| [Úvod](00-uvod.md) | ano | nenalezeno | ano | metodická výhrada a odkaz na kartu | ano | ano | nenalezeno | ano |
 | [Kapitola 1 (§ 1–7a)](01-obecna-dopravni-obsluznost.md) | ano | bez bloku podkladů | ano | nenalezeno | ano (12) | ano | ano (10) | ano |
-| [Kapitola 2 (§ 8–21)](02-postup-smlouva-nabidkove-rizeni.md) | ano | ano (14) | ano | nenalezeno | ano (18) | ano | ano (14) | ano |
+| [Kapitola 2 (§ 8–21)](02-postup-smlouva-nabidkove-rizeni.md) | ano | ano (14) | ano | ano (karta u § 8) | ano (18) | ano | ano (14) | ano |
 | [Kapitola 3 (§ 22–29, § 33–41)](03-mimoradne-kompenzace-dozor-novely.md) | ano | částečně (3) | ano | nenalezeno | ano (8) | ano | ano (17) | ano |
 | [Kapitola 4 (příloha)](04-priloha-standardy.md) | ano | ano (1) | ano | nenalezeno | ano (1) | ano | ano (1) | ano |
 
 ### Kontrolní priority podle místní struktury
 
-- **Judikatura:** textový signál nebyl nalezen v žádné kapitole; po strojovém doplnění složky `judikatura/` je nutné znovu projít vrstvy 7 až 10.
+- **Judikatura:** textový signál nebyl nalezen v kapitolách 01, 03 a 04; [kapitola 02](02-postup-smlouva-nabidkove-rizeni.md) cituje jedinou místní kartu (NS 33 Cdo 1703/2022) u § 8. Po každém dalším doplnění složky `judikatura/` je nutné znovu projít vrstvy 7 až 10.
 - **Důkazy:** doplnit důkazní podklady u § 1 až 7a (souhlasy, projednání a zveřejnění plánů) a u § 24 až 29 a § 34 až 41.
 - **Časová působnost unijního práva:** ověřit čl. 5, 7 odst. 3 a 8 odst. 3 nařízení (ES) č. 1370/2007 v platném znění.
-Aktualizaci musí spustit novela ZVSPC, změna odkazovaných ustanovení ZZVZ, změna nařízení (ES) č. 1370/2007, novela nařízení vlády č. 63/2011 Sb. nebo č. 295/2010 Sb., vyhlášky č. 296/2010 Sb. nebo č. 175/2000 Sb., nová koncepce veřejné dopravy a doplnění místních karet rozhodnutí.
+Aktualizaci musí spustit novela ZVSPC, změna odkazovaných ustanovení ZZVZ, změna nařízení (ES) č. 1370/2007, novela nařízení vlády č. 63/2011 Sb. nebo č. 295/2010 Sb., vyhlášky č. 296/2010 Sb. nebo č. 175/2000 Sb., nová koncepce veřejné dopravy a doplnění nebo nahrazení místních karet rozhodnutí.
 
 **Hloubkový test.**
 - Na konci výkladu evidujte ověřené pravidlo, použitý místní zdroj, míru jistoty, otevřenou otázku a datum kontroly.
-- Aktualizaci spouští změna znění, nové nebo překonané rozhodnutí, rozpor mezi kapitolou a systémovým dokumentem nebo nefunkční odkaz.
+- Aktualizaci spouští změna znění, nové nebo překonané rozhodnutí, doplnění karty do `judikatura/`, rozpor mezi kapitolou a systémovým dokumentem nebo nefunkční odkaz.
 - Tvrzení bez místní opory označte jako hypotézu či otevřenou otázku; absenci pramene nevydávejte za ustálené právo.
 - Po každé aktualizaci znovu ověřte časovou působnost, odkazy na ZZVZ a nařízení, prováděcí předpisy a modelové příklady.
 
@@ -388,7 +389,7 @@ Aktualizaci musí spustit novela ZVSPC, změna odkazovaných ustanovení ZZVZ, z
 | Proces | příslušnost, sled kroků, forma, lhůta, přezkum | seznam paragrafů bez časové osy |
 | Důkazy | znak, skutečnost, důkaz, břemeno, nejistota | nahrazení skutku právním názorem |
 | Následky | primární norma, porušení, neplatnost, přestupek, nápravné opatření, smluvní sankce | směšování sankce, neplatnosti a odpovědnosti |
-| Judikatura | ratio, kontext, dosah, vývoj linie; do doplnění karet výslovná mezera | izolovaná nebo domyšlená právní věta |
+| Judikatura | ratio, kontext, dosah, vývoj linie; mimo § 8 (karta NS 33 Cdo 1703/2022) výslovná mezera | izolovaná nebo domyšlená právní věta |
 | Sporné výklady | nejsilnější varianty a důvod preference | potlačení rozumného protiargumentu |
 | Vazby | přednost nařízení, obdobné použití ZZVZ, subsidiarita, ústavní limit | pouhý seznam souvisejících předpisů |
 | Aplikace | skutky, pravidlo, důkazy, subsumpce, výsledek, varianta | příklad bez výslovného naplnění znaků |
@@ -407,7 +408,7 @@ Aktualizaci musí spustit novela ZVSPC, změna odkazovaných ustanovení ZZVZ, z
 - [ ] Rozhodné znění, přechodná ustanovení a časová působnost nařízení jsou označeny.
 - [ ] Každý pojem a modalita mají určený právní následek a případný sankční protějšek.
 - [ ] Procesní a důkazní rovina navazují na jednotlivé znaky normy a lhůty mají určený počátek.
-- [ ] Judikatura je zasazena do skutkového a procesního kontextu; dokud místní karty chybějí, mezera je výslovně uvedena.
+- [ ] Judikatura je zasazena do skutkového a procesního kontextu; u ustanovení, k nimž místní karta chybí, je mezera výslovně uvedena.
 - [ ] Konkurenční výklad je formulován v nejsilnější obhajitelné podobě.
 - [ ] Modelový případ obsahuje úplnou subsumpci a variantu hraničního případu.
 - [ ] Nejistoty, mezery a aktualizační spouštěče jsou viditelné.
