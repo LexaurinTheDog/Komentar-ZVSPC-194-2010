@@ -44,6 +44,11 @@ Druhá část kapitoly (§§ 18 až 21) se týká **přímého zadání** (váza
 
 **Výklad:**
 
+**Judikatura (z místních zdrojů):**
+
+- *NS* [33 Cdo 1703/2022](https://rozhodnuti.nsoud.cz/Judikatura/judikatura_ns.nsf/WebSearch/A7C4756C325508BBC125899900190B6E?openDocument) — 13. 2. 2023, kat. A
+  > „K projednání a rozhodnutí sporů ze smluv o veřejných službách v přepravě cestujících uzavřených podle § 8 zákona č. 194/2010 Sb. (ve znění pozdějších předpisů) je dána pravomoc soudu"
+
 #### Tři formy zajištění dopravní obslužnosti (odst. 1)
 
 § 8 odst. 1 je úvodním „rozcestníkem“ hlavy III. Objednatel (stát, kraj, obec — viz § 3 a § 4) má k dispozici tři právní formy:
